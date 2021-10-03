@@ -84,7 +84,7 @@ You’re all set with the matcher contract!
 Open the terminal and execute the following command:
 
 ```
-git clone https://github.com/UniqueNetwork/marketplace-docker
+git clone https://github.com/HerrisonDuveteux/marketplace-docker/
 cd marketplace-docker
 git checkout feature/easy_start
 git submodule update --init --recursive --remote
